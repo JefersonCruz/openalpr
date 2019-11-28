@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'reconhecimento-placa-veicular-master'" />
-    <option name="defaultScopeName" value="Project 'reconhecimento-placa-veicular-master'" />
-    <option name="SEARCH_SCOPE" value="Project 'reconhecimento-placa-veicular-master'" />
+    <option name="customScope" value="Project 'android-anpr-reader-master'" />
+    <option name="defaultScopeName" value="Project 'android-anpr-reader-master'" />
+    <option name="SEARCH_SCOPE" value="Project 'android-anpr-reader-master'" />
   </component>
 </application>
